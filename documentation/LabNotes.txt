@@ -1,0 +1,30 @@
+# Cloud IAM Lab Documentation
+
+## Lab Objective
+Implement cloud identity and access management in Microsoft Entra ID focusing on security best practices and auditability.
+
+## Environment Setup
+- Azure Free Account  
+- Microsoft Entra ID Free tier  
+- Microsoft Authenticator App  
+
+## Steps Performed
+1. Created Entra ID tenant and users  
+2. Created security groups and assigned users  
+3. Created resource group and configured RBAC  
+4. Tested user lifecycle: joiner, mover, leaver  
+5. Verified audit logs and MFA authentication
+
+## Results / Observations
+- Audit logs captured all administrative actions  
+- RBAC enforced least-privilege access  
+- MFA confirmed using Microsoft Authenticator App  
+- No Conditional Access policies used (Free tier limitation)
+
+## Lessons Learned
+- Azure Entra ID Free tier supports foundational IAM  
+- RBAC and audit logs provide strong security governance  
+- MFA testing strengthens understanding of cloud authentication
+
+## Screenshots
+[List files in `/screenshots` folder]
