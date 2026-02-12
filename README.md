@@ -71,5 +71,3 @@ Include in `/screenshots` folder:
 
 ---
 
-## Resume/LinkedIn Bullet
-> Built a cloud-based IAM lab using Microsoft Entra ID, implementing user lifecycle management, RBAC, audit logging, and MFA authentication using Microsoft Authenticator App.
